@@ -1,0 +1,54 @@
+
+site music (playlist):
+
+tables:
+
+	musics:
+		id
+		title
+		artist
+		album
+		year
+		genre
+		soundpath
+		coverpath
+
+		added_at
+
+	plist:
+		id
+		title
+		added_at
+		modified_at
+
+
+	users:
+		id
+		username
+		firstname
+		lastname
+		password
+		deleted
+		ustampdate
+
+pages:
+
+	home: carousel de presentation
+	sign in: login/enregistrement
+
+	add zik
+	edit zik
+	delete zik
+
+	list: show, select to play (link)
+
+	
+
+
+Information parcelle
+Ville: Marseille 15
+Code Insee: 13215
+prefixe: 902
+section: B
+numero: 42
+Prix TTC: 9.9€
